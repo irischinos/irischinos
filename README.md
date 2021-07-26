@@ -1,4 +1,4 @@
- Hi there, I'm Iris,
+ <h1> Hi there, I'm Iris, </h1>
 
 📚 Currently studying: VanillaJS, PHP, JavaScript.
 💻 Working with: HTML5, CSS3, JavaScript, Bootstrap4, Node.js, Firebase.
