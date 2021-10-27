@@ -8,8 +8,8 @@
 <h3> 💬 About Me: </h3>
 
 My name is Iris Ailed Ramos Vivas, FullStack Developer student, Bussiness management and violinist passionate about arts. <br>
-👩‍🎓 - Actually I'm student in Codeberry.<br>
+👩‍🎓 - Actually I'm student in Codeberry (Front-end) and in Codecademy (Front-end & Back-end).<br>
 🎻 - Also I'm violinist :)<br><br>
 🍀 - I really love languages, I try to learn 5 at the same time: english, italian, portuguese, german and french, the last two are the most difficult to me. <br>
-💙 I am constantly learning about programming so I think the most important thing here to me is the passion that I give to everything that I love, so I'm open to learn about anything! 🌱
+💙 - I am constantly learning about programming so I think the most important thing here to me is the passion that I give to everything that I love, so, I'm open to learn about anything I'm interested in! 🌱
 
