@@ -1,6 +1,7 @@
  <h1> Hi there, I'm Iris 🧟‍♀️! </h1>
 
 📚 Currently studying: JavaScript, React.js, MySQL, Java. <br>
+🛠 Technologies I want to learn: Angular / Angular JS, RxJx, CSS (SASS). <br>
 💻 Working with: HTML5, CSS3, JavaScript, Bootstrap4, Node.js. <br>
 🛠 Other Tools: Git, GitHub, Trello.<br>
 ☕ Open to talk.<br><br>
