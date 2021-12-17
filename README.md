@@ -3,8 +3,8 @@ My name is Iris Ramos, FullStack Developer trainee, and passionate about arts. <
 
 <h3> 💬 About Me: </h3>
 
-👩‍🎓 - Currently studying at Generation (Java Fullstack Dev) | Currently studying: JavaScript, React.js, MySQL, Java. <br>
-👩‍🎓 - Currentley studying at Codeberry (Frontend Dev).<br> | Currently studying: HTML5, CSS3, JavaScript, Bootstrap4, Node.js.<br>
+👩‍🎓 - Currently studying at Generation (Java Fullstack Dev) | JavaScript, React.js, MySQL, Java. <br>
+👩‍🎓 - Currently studying at Codeberry (Frontend Dev).<br> | HTML5, CSS3, JavaScript, Bootstrap4, Node.js.<br>
 🛠 - Technologies I want to learn: Angular / Angular JS, RxJx, CSS (SASS), Vanilla.js <br>
 🎻 - I'm violinist :)<br> 
 🍀 - I really like languages, I'm learning and improving english, italian, portuguese, french and german. <br>
