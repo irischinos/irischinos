@@ -1,5 +1,5 @@
 <h1> Hi there, I'm Iris 🧟‍♀️! </h1>
-My name is Iris Ramos, FullStack Developer trainee, and passionate about arts. <br><br>
+My name is Iris Ramos, FullStack Developer trainee, and passionate about arts. <br>
 
 <h3> 💬 About Me: </h3>
 
