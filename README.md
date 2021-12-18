@@ -8,6 +8,6 @@ My name is Iris Ramos, FullStack Developer trainee, and passionate about arts. <
 🛠 - Technologies I want to learn: Angular / Angular JS, RxJx, CSS (SASS), Vanilla.js <br>
 🎻 - I'm violinist :)<br> 
 🍀 - I really like languages, I'm learning and improving english, italian, portuguese, french and german. <br>
-💙 - The most important thing here to me is the passion that I give to everything that I love, so, I'm open to learn about anything I'm interested in! 🌱
+💙 - The most important thing here to me is the passion that I give to everything that I love, so, I'm open to learn about anything I'm interested in! 🌱<br>
 ☕ - Open to talk.<br><br>
 
