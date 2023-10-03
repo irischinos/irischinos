@@ -1,6 +1,6 @@
 <h3 align="center">A passionate frontend developer and violinist from México</h3>
 
-- 🌱 I’m currently learning **HTML5, CSS3, JavaScript, Bootstrap4, Angular / Angular JS, RxJx, CSS (SASS), Vanilla.js, Node.js,**
+- 🌱 I’m currently learning **HTML5, CSS3, JavaScript, React, CSS (SASS), Vanilla.js, Node.js,**
 
 - 📫 How to reach me **https://www.linkedin.com/in/iris-ailedrv/**
 
